@@ -60,3 +60,4 @@ When working locally git helps us to focus on our work by tracking changes to a 
 
 ## Successful gitters
 - Sam Margalit
+- Dean Rosedragon
